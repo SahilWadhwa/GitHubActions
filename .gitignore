@@ -3,4 +3,4 @@
 .gradle/*
 out/
 build/
-gradle/
+gradle
